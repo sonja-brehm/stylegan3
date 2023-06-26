@@ -1,3 +1,11 @@
+I used the notebook provided by [Derrick Schultz](https://github.com/dvschultz) to train a StyleGAN3 on a dataset of my own abstract artworks (some examples of my art can be found [here](https://www.instagram.com/sonjabrehm.art/)).
+
+![example outcome images](./docs/results/images.png)
+![example video](./docs/results/video1.gif)
+![example video](./docs/results/video2.gif)
+
+____
+
 ## Modified StyleGAN3 Repo
 
 ### Changes Made
